@@ -1,7 +1,7 @@
 ### Robotics Engineer
 
 ### Interest
-- Embedded (MCU, Arduino, RTOS)
+- Embedded (MCU, RTOS)
 - Robotics (ROS, SLAM, Jetson)
 - Autonomous driving
 - Problem Solving
