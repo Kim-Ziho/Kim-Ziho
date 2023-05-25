@@ -1,5 +1,3 @@
-### Robotics Engineer
-
 ### Interest
 - Embedded (MCU, RTOS)
 - Robotics (ROS, SLAM, Jetson)
