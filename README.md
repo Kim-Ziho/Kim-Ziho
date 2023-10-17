@@ -1,4 +1,5 @@
 ### Interest
+- Game Programming (C++)
 - Embedded (MCU, RTOS)
 - Robotics (ROS, SLAM, Jetson)
 - Autonomous driving
